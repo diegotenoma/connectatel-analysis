@@ -121,42 +121,7 @@ matplotlib
 seaborn
 jupyter
 
-Instalar dependencias:
 
-pip install pandas numpy matplotlib seaborn jupyter
-Cómo Ejecutar el Notebook
-Opción 1: Google Colab
-Abrir Google Colab.
-Seleccionar File → Upload Notebook.
-Cargar el archivo .ipynb.
-Subir los datasets requeridos.
-Actualizar las rutas de los archivos si es necesario.
-Ejecutar las celdas en orden.
-Opción 2: Jupyter Notebook
-Clonar el repositorio:
-git clone <URL_DEL_REPOSITORIO>
-Entrar al directorio:
-cd <NOMBRE_DEL_REPOSITORIO>
-Ejecutar Jupyter:
-jupyter notebook
-Abrir el notebook del proyecto.
-Ejecutar todas las celdas secuencialmente.
-Guía de Reproducción
-Obtener los archivos:
-plans.csv
-users_latam.csv
-usage.csv
-Colocarlos en la carpeta /datasets o actualizar las rutas en el notebook.
-Ejecutar las secciones en el siguiente orden:
-Exploración
-Limpieza
-Agregación de métricas
-Estadísticas descriptivas
-Visualizaciones
-Segmentación
-Insights ejecutivos
-Verificar que los gráficos y tablas se generen correctamente.
-Revisar las conclusiones finales para interpretar los resultados del análisis.
 Autor
 
 Diego Tenorio Martínez
